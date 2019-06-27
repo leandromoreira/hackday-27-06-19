@@ -1,0 +1,12 @@
+version: '2.1'
+
+services:
+  nginx:
+    build:
+      context: .
+    volumes:
+      - "./nginx.conf:/usr/local/openresty/nginx/conf/nginx.conf"
+      - "./src/:/lua/src/"
+    ports:
+      - "8080:8080"
+

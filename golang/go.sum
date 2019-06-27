@@ -1,0 +1,6 @@
+github.com/giorgisio/goav v0.1.0 h1:ZyfG3NfX7PMSimv4ulhmnQJf/XeHpMdGCn+afRmY5Oc=
+github.com/giorgisio/goav v0.1.0/go.mod h1:RtH8HyxLRLU1iY0pjfhWBKRhnbsnmfoI+FxMwb5bfEo=
+github.com/gosuri/uilive v0.0.0-20170323041506-ac356e6e42cd/go.mod h1:qkLSc0A5EXSP6B04TrN4oQoxqFI7A8XvoXSlJi8cwk8=
+github.com/gosuri/uiprogress v0.0.0-20170224063937-d0567a9d84a1/go.mod h1:C1RTYn4Sc7iEyf6j8ft5dyoZ4212h8G1ol9QQluh5+0=
+github.com/imkira/go-libav v0.0.0-20190125075901-6bf952df9de5 h1:iSROKMU92Me3EybY+TFHIjjY761wtgSI/FrExcvIJ7M=
+github.com/imkira/go-libav v0.0.0-20190125075901-6bf952df9de5/go.mod h1:BgZ1TltDTSjLsl/SuJUaD9EwqyUiH1ZZRDA3VGHoJ68=
